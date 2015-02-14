@@ -1,0 +1,10 @@
+{
+  "name": "vday",
+  "dependencies": {
+    "twit": "*",
+    "twitter": "*",
+    "johnny-five": "*",
+    "d3": "*",
+    "lodash": "*"
+  }
+}
